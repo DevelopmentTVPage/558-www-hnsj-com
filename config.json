@@ -1,0 +1,15 @@
+{
+    "title": "yio ului",
+    "baseURL": "https:\/\/www.hnsj.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759123",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "hnsj.com"
+    }
+}
